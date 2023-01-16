@@ -4,6 +4,9 @@
     box-sizing: border-box;
     font-family: "Open Sans", sans-serif;
 }
+html{
+	scroll-behavior: smooth;
+}
 
 a {
     text-decoration: none;
@@ -163,6 +166,14 @@ body {
     z-index: 1000;
 }
 
+
+
+#projecticonssss {
+    width: 128px;
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+}
 
 /* ------------------------------------------------------------------------------------------------------------------ */
 
